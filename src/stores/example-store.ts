@@ -6,7 +6,7 @@ import Swal from 'sweetalert2'
 export const mainStore = defineStore(
   'main',
   () => {
-    const host = 'http://localhost:8000/api/';
+    const host = 'https://immika.pythonanywhere.com/api/';
 
     const doctorId = ref('');
 
