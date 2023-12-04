@@ -106,8 +106,9 @@ const editProduct = async (id: string) => {
   router.push('user-edit')
 }
 
-const askDate = async (dogId: string, owner_id: string) => {
-  //store.setDog(id)
+const askDate = async (id: string, oId: string) => {
+  store.setDog(id)
+  store.setUser(oId)
   router.push('user-date')
 }
 

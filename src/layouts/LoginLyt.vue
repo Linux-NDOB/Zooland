@@ -3,7 +3,7 @@ q-layout(view="lHh Lpr lFf")
   q-header(reveal elevated)
     q-toolbar(class="bg-white q-pa-none lato-light")
       q-avatar(size="70px" class="q-ma-none q-pa-none")
-        img(src="src/assets/Logo/Zooland.png")
+        img(src="assets/Logo/Zooland.png")
       q-toolbar-title
         div.text-black.text-bold.text-italic Zooland
       q-space
