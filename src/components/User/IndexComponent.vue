@@ -9,7 +9,7 @@
         <div class="text-overline text-orange-9">Propietario</div>
         <div class="text-h5 q-mt-sm q-mb-xs">Bienvenido Usuario</div>
         <div class="text-caption text-grey">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          Zooland es una plataforma que permite a sus usuarios el acceso a diferentes servicios de atención médica veterinaria bajo el modelo virtual en elmunicipio de Lorica.
         </div>
       </q-card-section>
     </q-card>
