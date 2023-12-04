@@ -3,7 +3,7 @@ q-layout(view="lHh Lpr lFf")
     q-header(reveal elevated)
       q-toolbar(class="bg-white q-pa-none lato-light")
         q-avatar(size="70px" class="q-ma-none q-pa-none")
-          img(src="src/assets/Logo/Zooland.png")
+          img(src="logo/zooland.png")
         q-toolbar-title
           div.text-black.text-bold.text-italic Zooland
         q-space
@@ -15,7 +15,7 @@ q-layout(view="lHh Lpr lFf")
     q-footer(elevated class="lato-light")
       q-toolbar(class="bg-white q-pa-none")
         q-avatar(size="40px" class="q-ma-none q-pa-none")
-          img(src="src/assets/Logo/Zooland.png")
+          img(src="logo/zooland.png")
         q-toolbar-title
           div.text-black.text-bold.text-italic Zooland
         div.text-black.text-bold.text-italic Todos los derechos reservados

@@ -4,7 +4,7 @@
         Form(:validation-schema='userSchema' class="")
           div(class="bg-white lato-light row justify-center")
             q-avatar(size="150px" class="q-mr-sm")
-              img(src="src/assets/Logo/Zooland.png")
+              img(src="logo/zooland.png")
           .q-gutter-y-sm.q-py-sm.text-center(style="max-width: 300px")
             EmailInput(:name="'email'" v-model="fields.email")
             PasswordInput(:name="'password'" v-model="fields.password")

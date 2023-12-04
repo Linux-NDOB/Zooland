@@ -2,7 +2,7 @@
   <div class="q-pa-md row items-start q-gutter-md">
     <q-card class="my-card" flat>
       <q-img class="login-img"
-        src="src/assets/Logo/Zooland.png"
+        src="logo/zooland.png"
       />
 
       <q-card-section>
