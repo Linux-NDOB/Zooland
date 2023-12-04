@@ -1,0 +1,7 @@
+<template lang="pug">
+Cpt
+</template>
+
+<script setup>
+import Cpt from 'src/components/Doctor/DoctorDates.vue'
+</script>
