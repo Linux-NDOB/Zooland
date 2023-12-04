@@ -83,11 +83,6 @@ const delProduct = async (id: string) => {
   fillRows()
 }
 
-const editProduct = async (id: string) => {
-  store.setDog(id)
-  router.push('user-edit')
-}
-
 const edit = async (id: string) => {
   store.setDog(id)
   router.push('doctor-edit-date')

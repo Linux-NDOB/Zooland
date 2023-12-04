@@ -4,7 +4,7 @@
     Form(:validation-schema='registerSchema' class="")
       div(class="bg-white lato-light row justify-center")
         q-avatar(size="150px" class="q-mr-sm")
-          img(src="src/assets/Logo/Zooland.png")
+          img(src="logo/Zooland.png")
       .q-gutter-y-sm.q-py-sm.text-center(style="max-width: 300px")
         Input(:name="'name'" label="Nombre" v-model="registerFields.name")
           template(v-slot:prependIcon)
